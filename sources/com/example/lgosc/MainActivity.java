@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     /* access modifiers changed from: private */
     public String arg;
     /* access modifiers changed from: private */
-    public String myIP = "192.168.1.59";
+    public String myIP = "192.168.1.1";
     /* access modifiers changed from: private */
     public int myPort = 5005;
     /* access modifiers changed from: private */
